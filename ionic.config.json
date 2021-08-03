@@ -1,0 +1,7 @@
+{
+  "name": "heleos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

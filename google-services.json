@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439722886068",
+    "firebase_url": "https://heleo-7bdfc.firebaseio.com",
+    "project_id": "heleo-7bdfc",
+    "storage_bucket": "heleo-7bdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439722886068:android:6a3e974ee5c7c485b468e1",
+        "android_client_info": {
+          "package_name": "com.heleo.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439722886068-bvgvbgj5oncp83o5p13rrs4mod7lp95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvT8gF6OSo2v8aEr7mOAKt2OCSsgHYDhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439722886068-bvgvbgj5oncp83o5p13rrs4mod7lp95b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
